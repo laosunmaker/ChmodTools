@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e40a991c-741d-40fb-a0ea-e2643ebfc7d7)# ChmodToos
+# ChmodToos
 A calculation tool for chmod permission codes on Linux systems
 一个用于计算Linux chmod 权限代码的小工具
 ## 支持
