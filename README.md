@@ -10,6 +10,6 @@ A calculation tool for chmod permission codes on Linux systems
 pip install pyside6
 ```
 ## 项目说明
-main.py：项目主程序
-tools.py：通过pyuic转换而得到的python界面程序
-tools.ui：项目ui文件
+1. main.py：项目主程序
+2. tools.py：通过pyuic转换而得到的python界面程序
+3. tools.ui：项目ui文件
